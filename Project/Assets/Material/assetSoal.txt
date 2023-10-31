@@ -1,0 +1,32 @@
+Sumber energi terbarukan manakah yang memungkinkan kita menangkap dan menyimpan energi dari matahari? 
++Tenaga angin 
++Tenaga pasang surut 
++Tenaga surya 
++Tenaga panas bumi
++C
+#Bagaimana cara kerja panel surya untuk menghasilkan listrik? 
++Dengan mengubah sinar matahari menjadi panas 
++Dengan menggunakan angin untuk menghasilkan listrik 
++Dengan memanfaatkan energi gelombang laut 
++Dengan mengubah sinar matahari menjadi energi listrik
++D
+#Apa yang membuat sumber energi “terbarukan”? 
++Dapat digunakan tanpa biaya apapun 
++Dapat diisi ulang secara alami seiring berjalannya waktu 
++Tersedia dalam jumlah yang tidak terbatas 
++Tidak bergantung pada teknologi
++B
+#Daerah perkotaan yang padat penduduknya sedang mencari cara untuk mengurangi emisi gas rumah kaca dari transportasi. Solusi energi terbarukan manakah yang harus mereka prioritaskan? 
++Mempromosikan kendaraan listrik (EV) 
++Memasang turbin angin di kota 
++Mengembangkan sistem pemanas panas bumi 
++Mendorong transportasi berbahan bakar biomassa
++A
+#Dalam kasus apa sinar matahari terlibat langsung dalam produksi energi terbarukan? 
++Tenaga surya dan tenaga air 
++Tenaga angin dan energi pasang surut 
++Tenaga surya dan energi biomassa 
++Tenaga panas bumi dan energi pasang surut
++C
+
+
